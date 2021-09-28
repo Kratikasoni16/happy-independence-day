@@ -1,0 +1,6 @@
+alert ("please click anywhere on the screen")
+
+function playAudio() { 
+    var x = document.getElementById("audio"); 
+    x.play(); 
+} 
